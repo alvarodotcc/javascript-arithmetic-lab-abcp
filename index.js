@@ -1,3 +1,3 @@
-Function (a,b){
-return   
+Function add (a,b){
+return   a+b;
 }
